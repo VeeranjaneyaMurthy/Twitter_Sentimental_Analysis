@@ -1,2 +1,1 @@
-# Twitter_Sentimental_Analysis
-Twitter_Sentimental_Analysis
+# Analytics
